@@ -5,5 +5,3 @@ A new Flutter mobile application made for explaining the basic concepts of cirki
 
 
 
-
-samples, guidance on mobile development, and a full API reference.
