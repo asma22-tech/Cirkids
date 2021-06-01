@@ -2,7 +2,6 @@
 
 A new Flutter mobile application made for explaining the basic concepts of cirkits in an easy fun way for children.
 
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
